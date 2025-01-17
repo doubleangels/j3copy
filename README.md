@@ -1,4 +1,4 @@
-# j3Copy
+# j3copy
 
 **Warning: This repository is not currently maintained, please use at your own risk!**
 
